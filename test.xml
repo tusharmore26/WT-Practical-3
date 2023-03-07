@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<employee>
+  <details>
+    <empid>E1</empid>
+    <name>Alex</name>
+    <department>Computer</department>
+    <salary>15000</salary>
+  </details>
+  <details>
+    <empid>E2</empid>
+    <name>David</name>
+    <department>Civil</department>
+    <salary>20000</salary>
+  </details>
+  <details>
+    <empid>E3</empid>
+    <name>Sam</name>
+    <department>Mechanical</department>
+    <salary>25000</salary>
+  </details>
+  <details>
+    <empid>E4</empid>
+    <name>Tom</name>
+    <department>Computer</department>
+    <salary>20000</salary>
+  </details>
+  <details>
+    <empid>E5</empid>
+    <name>Anna</name>
+    <department>Mechanical</department>
+    <salary>35000</salary>
+  </details>
+</employee>
